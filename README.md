@@ -25,4 +25,7 @@
 <p> <u> Highlight</u> the word </p>
 <p> <strong> Warning</strong> : Invalid Input ! </p>
 
-<p> <h4>The Chemical Formula for water is H<sub>2</sub>O</h4></p>
+<p> <h3>The Chemical Formula for water is H<sub>2</sub>O</h3></p>
+<br>
+<p> <h3>Mathematical equation for square is x<sup>2</sup></h3></p>
+<p> <mark> HTML </mark> stands for HyperText Makeup Language</p>

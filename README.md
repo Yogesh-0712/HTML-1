@@ -18,4 +18,5 @@
 <h5> Heading 5</h5>
 <h6> Heading 6 </h6>
 
+<p> Create a basic HTML document with <html>, <head>, and <body> tags. <br> Write an HTML document that displays a heading using <h1> with your name. Add six headings (<h1> to <h6>) in a web page, each showing "Heading 1" to "Heading 6"</p>
 

@@ -25,4 +25,4 @@
 <p> <u> Highlight</u> the word </p>
 <p> <strong> Warning</strong> : Invalid Input ! </p>
 
-<p> The Chemical Formula for water is H<sub>2</sub>O</p>
+<p> <h2>The Chemical Formula for water is H<sub>2</sub>O</h2></p>

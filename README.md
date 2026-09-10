@@ -20,10 +20,10 @@
 
 <p> Create a basic HTML document with html,head and body tags. <br> Write an HTML document that displays a heading using h1 with your name. Add six headings in a web page, each showing <b>"Heading 1" to "Heading 6"</b></p>
 
-<p> This is a <b> Important</b> line </p>
+<h5><p> This is a <b> Important</b> line </p>
 <p> This is a <i> Special</i> line </p>
 <p> <u>Highlight</u> the word </p>
-<p> <strong> Warning</strong> : Invalid Input ! </p>
+<p> <strong> Warning</strong> : Invalid Input ! </p></h5>
 
 <p> <h3>The Chemical Formula for water is H<sub>2</sub>O</h3></p>
 

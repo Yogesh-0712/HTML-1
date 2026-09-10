@@ -22,7 +22,7 @@
 
 <p> This is a <b> Important</b> line </p>
 <p> This is a <i> Special</i> line </p>
-<p> <u> Highlight</u> the word </p>
+<p> <u>Highlight</u> the word </p>
 <p> <strong> Warning</strong> : Invalid Input ! </p>
 
 <p> <h3>The Chemical Formula for water is H<sub>2</sub>O</h3></p>

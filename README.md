@@ -7,7 +7,7 @@
 <title> Basic HTML </title>
 
 <body>
-<h1><b><u><I>Yogesh Chavan</b></u></i></h1>
+<h1><b><I>Yogesh Chavan</b></i></h1>
 
 <h1> Heading 1 </h1>
 <hr>

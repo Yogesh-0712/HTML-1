@@ -29,7 +29,7 @@
 
 <p> <h3>Mathematical equation for square is x<sup>2</sup></h3></p>
 <p> <h3><mark> HTML </mark> stands for HyperText Makeup Language</h3></p>
-<p> <small> © 2026 </small></p>
+<p> <small> © Chavan</small></p>
 
 </body>
 </html>

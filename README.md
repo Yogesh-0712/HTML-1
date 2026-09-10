@@ -1,11 +1,11 @@
 # HTML-1
 <!DOCTYPE html>
-<html language = "en">
+<html lang = "en">
 <head>
 <meta charset = "UTF-8">
 <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
 <title> Basic HTML </title>
-
+</head>
 <body>
 <h1><b><I>Yogesh Chavan</b></i></h1>
 
@@ -25,10 +25,10 @@
 <p> <u>Highlight</u> the word </p>
 <p> <strong> Warning</strong> : Invalid Input ! </p>
 
-<p> <h3>The Chemical Formula for water is H<sub>2</sub>O</h3></p>
+<p> <The Chemical Formula for water is H<sub>2</sub>O</p>
 
-<p> <h3>Mathematical equation for square is x<sup>2</sup></h3></p>
-<p> <h3><mark> HTML </mark> stands for HyperText Makeup Language</h3></p>
+<p> Mathematical equation for square is x<sup>2</sup></p>
+<p> <mark> HTML </mark> stands for HyperText Makeup Language</p>
 <p> <small> © Chavan</small></p>
 
 </body>
